@@ -19,3 +19,12 @@ Rabby offers a user-friendly interface for interacting with multiple EVM-compati
 - Never share your seed phrase.
 - Verify URLs before connecting your wallet.
 - Use hardware wallets for large amounts.
+
+## Choosing a Wallet
+
+When selecting a wallet for Base, consider:
+
+- Ease of use
+- Security features
+- Hardware wallet support
+- Active development and updates
