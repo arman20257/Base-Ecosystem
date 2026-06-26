@@ -51,3 +51,17 @@ Base is a Layer 2 blockchain built to make Ethereum more accessible, scalable, a
 ## License
 
 MIT
+
+## Repository Roadmap
+
+Future improvements may include:
+
+- More detailed documentation about the Base ecosystem
+- Developer guides and tutorials
+- Security recommendations
+- Ecosystem updates
+- Learning resources for beginners
+
+## Contributions
+
+Suggestions and improvements are welcome. This repository is intended as a simple educational resource for learning about the Base network.
