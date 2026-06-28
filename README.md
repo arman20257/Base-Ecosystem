@@ -62,6 +62,15 @@ Future improvements may include:
 - Ecosystem updates
 - Learning resources for beginners
 
+ ## Repository Goals
+
+This repository aims to:
+
+- Organize learning materials about the Base ecosystem.
+- Keep concise notes for future reference.
+- Track useful concepts related to Base and Ethereum Layer 2.
+- Continuously improve documentation over time.
+
 ## Contributions
 
 Suggestions and improvements are welcome. This repository is intended as a simple educational resource for learning about the Base network.
