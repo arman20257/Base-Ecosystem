@@ -1,5 +1,17 @@
 # Base Explorer
+## Project Structure
 
+```text
+.
+├── README.md
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+└── docs/
+    ├── bridges.md
+    ├── dapps.md
+    ├── security.md
+    └── wallets.md
+```
 A simple repository for tracking and learning about the Base ecosystem.
 
 ## About
