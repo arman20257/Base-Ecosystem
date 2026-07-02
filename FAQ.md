@@ -15,3 +15,15 @@ Yes. Base is EVM-compatible, making it easier for developers and users to intera
 ## Who is this repository for?
 
 Anyone interested in learning the basics of the Base ecosystem.
+
+## Are transactions on Base cheaper than Ethereum?
+
+In many cases, transaction fees on Base are lower than on the Ethereum mainnet. The exact cost depends on network activity.
+
+## Can developers deploy Ethereum smart contracts on Base?
+
+Yes. Since Base is EVM-compatible, many Ethereum smart contracts can be deployed with little or no modification.
+
+## Where can I learn more?
+
+The official Base documentation and developer resources are good starting points for learning more about the ecosystem.
