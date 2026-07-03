@@ -18,3 +18,14 @@ If you find incorrect or outdated information, feel free to open an issue or sub
 - Use descriptive headings.
 - Write in clear English.
 - Keep examples simple and easy to understand.
+
+## Commit Message Guidelines
+
+Use short and descriptive commit messages.
+
+Examples:
+
+- Update README
+- Improve FAQ
+- Add security notes
+- Fix documentation typos
