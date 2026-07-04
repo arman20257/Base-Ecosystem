@@ -86,3 +86,12 @@ This repository aims to:
 ## Contributions
 
 Suggestions and improvements are welcome. This repository is intended as a simple educational resource for learning about the Base network.
+## Who Is This Repository For?
+
+This repository is intended for:
+
+- Beginners exploring the Base ecosystem
+- Developers looking for quick reference notes
+- Blockchain enthusiasts learning about Ethereum Layer 2 networks
+
+The content focuses on simple explanations and practical documentation.
