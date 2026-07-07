@@ -27,3 +27,11 @@ Yes. Since Base is EVM-compatible, many Ethereum smart contracts can be deployed
 ## Where can I learn more?
 
 The official Base documentation and developer resources are good starting points for learning more about the ecosystem.
+
+## Can I use the same wallet address on Base?
+
+Yes. Since Base is an Ethereum-compatible network, your wallet address remains the same across supported EVM networks. Always make sure you have selected the correct network before sending assets.
+
+## Is this repository regularly updated?
+
+This repository is updated over time as new information and learning resources about the Base ecosystem become available.
