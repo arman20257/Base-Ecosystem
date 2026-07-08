@@ -95,3 +95,13 @@ This repository is intended for:
 - Blockchain enthusiasts learning about Ethereum Layer 2 networks
 
 The content focuses on simple explanations and practical documentation.
+
+## Getting Started
+
+To explore the Base ecosystem:
+
+1. Install an Ethereum-compatible wallet.
+2. Configure the Base network in your wallet.
+3. Bridge assets if needed.
+4. Explore applications and documentation.
+5. Follow security best practices before interacting with protocols.
