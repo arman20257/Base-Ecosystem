@@ -105,3 +105,12 @@ To explore the Base ecosystem:
 3. Bridge assets if needed.
 4. Explore applications and documentation.
 5. Follow security best practices before interacting with protocols.
+
+## Learning Objectives
+
+By using this repository, readers can:
+
+- Understand the basics of the Base ecosystem.
+- Learn about wallets and security practices.
+- Explore decentralized applications on Base.
+- Build a simple reference for future learning.
