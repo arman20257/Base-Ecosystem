@@ -114,3 +114,7 @@ By using this repository, readers can:
 - Learn about wallets and security practices.
 - Explore decentralized applications on Base.
 - Build a simple reference for future learning.
+
+## Repository Status
+
+This project is actively maintained and updated with small improvements over time. The goal is to keep the documentation simple, organized, and useful for anyone interested in the Base ecosystem.
