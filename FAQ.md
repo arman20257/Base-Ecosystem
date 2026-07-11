@@ -35,3 +35,6 @@ Yes. Since Base is an Ethereum-compatible network, your wallet address remains t
 ## Is this repository regularly updated?
 
 This repository is updated over time as new information and learning resources about the Base ecosystem become available.
+## Do I need ETH on Base to pay transaction fees?
+
+Yes. Transactions on Base are typically paid using ETH on the Base network. Make sure you have a small amount of ETH available before interacting with applications.
