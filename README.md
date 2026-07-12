@@ -118,3 +118,10 @@ By using this repository, readers can:
 ## Repository Status
 
 This project is actively maintained and updated with small improvements over time. The goal is to keep the documentation simple, organized, and useful for anyone interested in the Base ecosystem.
+## Related Topics
+
+- Ethereum Layer 2 solutions
+- EVM-compatible networks
+- Wallet security
+- Decentralized applications
+- Blockchain fundamentals
