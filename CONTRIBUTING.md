@@ -29,3 +29,11 @@ Examples:
 - Improve FAQ
 - Add security notes
 - Fix documentation typos
+## Documentation Updates
+
+When updating documentation:
+
+- Keep information accurate and up to date.
+- Prefer short paragraphs and descriptive headings.
+- Avoid duplicate content across multiple files.
+- Review Markdown formatting before committing changes.
