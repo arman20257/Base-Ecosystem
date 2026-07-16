@@ -25,3 +25,11 @@ Using blockchain applications requires attention to security.
 All smart contracts carry some level of risk.
 
 Users should research projects and understand the risks before depositing funds.
+## Safe Practices
+
+Before interacting with any application on Base:
+
+- Confirm you are connected to the correct network.
+- Double-check token contract addresses.
+- Avoid signing transactions you do not understand.
+- Keep your wallet software up to date.
