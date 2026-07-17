@@ -21,3 +21,11 @@ Some cross-chain protocols also support transfers to and from Base.
 - Always verify the destination network.
 - Double-check wallet addresses before confirming transactions.
 - Be aware of bridge fees and confirmation times.
+## Before Using a Bridge
+
+Keep these points in mind before transferring assets:
+
+- Verify that the bridge supports the assets you want to transfer.
+- Make sure you are using the correct source and destination networks.
+- Check estimated transfer times.
+- Start with a small transfer if you are using a bridge for the first time.
