@@ -28,3 +28,11 @@ When selecting a wallet for Base, consider:
 - Security features
 - Hardware wallet support
 - Active development and updates
+## Best Practices
+
+To improve your wallet security while using Base:
+
+- Lock your wallet when it is not in use.
+- Keep your recovery phrase in a secure offline location.
+- Review transaction details before approving them.
+- Regularly update your wallet application to the latest version.
