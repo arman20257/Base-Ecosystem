@@ -25,3 +25,12 @@ Some projects are exploring on-chain social experiences and creator tools.
 - Check transaction fees before interacting with a protocol.
 - Verify official project links.
 - Understand the risks associated with smart contracts.
+## Exploring New dApps
+
+When trying a new decentralized application:
+
+1. Read the project's documentation.
+2. Verify the official website.
+3. Start with a small transaction.
+4. Review the permissions requested by your wallet.
+5. Stay informed about project updates.
