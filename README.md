@@ -135,3 +135,10 @@ If you are new to Base, consider exploring topics in this order:
 4. Learn how bridges work.
 5. Explore decentralized applications.
 6. Follow blockchain security best practices.
+## Repository Highlights
+
+- Beginner-friendly documentation
+- Organized notes about the Base ecosystem
+- Security recommendations
+- Wallet and bridge references
+- Practical learning resources
