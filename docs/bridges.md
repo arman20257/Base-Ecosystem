@@ -29,3 +29,13 @@ Keep these points in mind before transferring assets:
 - Make sure you are using the correct source and destination networks.
 - Check estimated transfer times.
 - Start with a small transfer if you are using a bridge for the first time.
+## Common Bridge Issues
+
+Some transfers may take longer than expected depending on network conditions.
+
+If a transaction is delayed:
+
+- Check the transaction status.
+- Confirm the correct destination network.
+- Wait for the required confirmations.
+- Contact the bridge's official support channels if necessary.
