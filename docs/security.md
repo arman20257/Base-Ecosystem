@@ -33,3 +33,11 @@ Before interacting with any application on Base:
 - Double-check token contract addresses.
 - Avoid signing transactions you do not understand.
 - Keep your wallet software up to date.
+## Account Protection
+
+Keeping your accounts secure is just as important as protecting your wallet.
+
+- Enable two-factor authentication (2FA) whenever possible.
+- Use a unique password for crypto-related accounts.
+- Avoid accessing your wallet on public or shared devices.
+- Regularly review connected applications and revoke unnecessary permissions.
