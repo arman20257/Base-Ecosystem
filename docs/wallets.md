@@ -36,3 +36,11 @@ To improve your wallet security while using Base:
 - Keep your recovery phrase in a secure offline location.
 - Review transaction details before approving them.
 - Regularly update your wallet application to the latest version.
+## Choosing the Right Wallet
+
+Different wallets are suitable for different users.
+
+- Browser wallets are convenient for everyday use.
+- Mobile wallets are useful for accessing dApps on the go.
+- Hardware wallets provide additional protection for long-term asset storage.
+- Choose a wallet that is actively maintained and regularly updated.
