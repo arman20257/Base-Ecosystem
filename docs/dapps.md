@@ -34,3 +34,12 @@ When trying a new decentralized application:
 3. Start with a small transaction.
 4. Review the permissions requested by your wallet.
 5. Stay informed about project updates.
+## Understanding Risks
+
+Before interacting with any decentralized application:
+
+- Read the project's documentation carefully.
+- Check whether the project is actively maintained.
+- Be cautious when granting token spending approvals.
+- Only connect your wallet to trusted applications.
+- Disconnect your wallet from services you no longer use.
