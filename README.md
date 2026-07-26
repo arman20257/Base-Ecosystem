@@ -142,3 +142,11 @@ If you are new to Base, consider exploring topics in this order:
 - Security recommendations
 - Wallet and bridge references
 - Practical learning resources
+## Documentation Overview
+
+The documentation in this repository is organized into separate sections to make navigation easier:
+
+- **Wallets** – Information about compatible wallets and best practices.
+- **Bridges** – Notes on transferring assets to and from Base.
+- **dApps** – General guidance for exploring decentralized applications.
+- **Security** – Tips for staying safe while using the Base ecosystem.
