@@ -150,3 +150,13 @@ The documentation in this repository is organized into separate sections to make
 - **Bridges** – Notes on transferring assets to and from Base.
 - **dApps** – General guidance for exploring decentralized applications.
 - **Security** – Tips for staying safe while using the Base ecosystem.
+## Maintenance
+
+This repository is updated periodically to improve documentation quality and keep the content organized.
+
+Changes may include:
+
+- Documentation improvements
+- Content corrections
+- New learning resources
+- Minor formatting updates
