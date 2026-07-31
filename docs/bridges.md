@@ -39,3 +39,11 @@ If a transaction is delayed:
 - Confirm the correct destination network.
 - Wait for the required confirmations.
 - Contact the bridge's official support channels if necessary.
+## Before Confirming a Transfer
+
+Take a moment to verify the following before submitting a bridge transaction:
+
+- The selected network is correct.
+- The destination wallet address is accurate.
+- You understand the estimated processing time.
+- You have enough ETH on the destination network for future transactions.
