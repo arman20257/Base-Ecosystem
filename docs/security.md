@@ -41,3 +41,13 @@ Keeping your accounts secure is just as important as protecting your wallet.
 - Use a unique password for crypto-related accounts.
 - Avoid accessing your wallet on public or shared devices.
 - Regularly review connected applications and revoke unnecessary permissions.
+## Keep Your Software Updated
+
+Using the latest version of your wallet and browser can help reduce security risks.
+
+Recommendations:
+
+- Install wallet updates as they become available.
+- Keep your operating system up to date.
+- Use trusted browser extensions only.
+- Remove extensions you no longer use.
