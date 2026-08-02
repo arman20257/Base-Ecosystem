@@ -44,3 +44,11 @@ Different wallets are suitable for different users.
 - Mobile wallets are useful for accessing dApps on the go.
 - Hardware wallets provide additional protection for long-term asset storage.
 - Choose a wallet that is actively maintained and regularly updated.
+## Backup Recommendations
+
+Creating a secure backup of your wallet is essential.
+
+- Write down your recovery phrase on paper.
+- Store backup copies in safe locations.
+- Never save your recovery phrase in public cloud storage.
+- Test your backup before relying on it for long-term storage.
