@@ -43,3 +43,11 @@ Before interacting with any decentralized application:
 - Be cautious when granting token spending approvals.
 - Only connect your wallet to trusted applications.
 - Disconnect your wallet from services you no longer use.
+## Wallet Permissions
+
+Before approving a wallet request:
+
+- Check what permission is being requested.
+- Only approve requests from trusted applications.
+- Review token spending approvals regularly.
+- Revoke permissions that are no longer needed.
