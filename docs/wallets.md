@@ -52,3 +52,10 @@ Creating a secure backup of your wallet is essential.
 - Store backup copies in safe locations.
 - Never save your recovery phrase in public cloud storage.
 - Test your backup before relying on it for long-term storage.
+## Wallet Comparison
+
+| Wallet Type | Best For | Notes |
+|--------------|----------|-------|
+| Browser Wallet | Daily dApp usage | Easy to access and use |
+| Mobile Wallet | On-the-go access | Convenient for mobile users |
+| Hardware Wallet | Long-term storage | Provides stronger security for valuable assets |
