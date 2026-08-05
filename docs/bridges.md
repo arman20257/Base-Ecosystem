@@ -47,3 +47,11 @@ Take a moment to verify the following before submitting a bridge transaction:
 - The destination wallet address is accurate.
 - You understand the estimated processing time.
 - You have enough ETH on the destination network for future transactions.
+## Bridge Checklist
+
+| Item | Why It Matters |
+|------|----------------|
+| Verify destination network | Prevents sending assets to the wrong chain |
+| Confirm wallet address | Avoids irreversible mistakes |
+| Review estimated fees | Helps plan transaction costs |
+| Check transaction status | Ensures the transfer is completed successfully |
