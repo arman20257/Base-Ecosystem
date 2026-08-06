@@ -160,3 +160,11 @@ Changes may include:
 - Content corrections
 - New learning resources
 - Minor formatting updates
+## Documentation Summary
+
+| Document | Description |
+|----------|-------------|
+| `wallets.md` | Wallet compatibility and security tips |
+| `bridges.md` | Asset transfer guidance |
+| `dapps.md` | Notes about decentralized applications |
+| `security.md` | Security recommendations and best practices |
