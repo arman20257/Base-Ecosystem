@@ -51,3 +51,12 @@ Recommendations:
 - Keep your operating system up to date.
 - Use trusted browser extensions only.
 - Remove extensions you no longer use.
+## Security Checklist
+
+| Recommendation | Purpose |
+|---------------|---------|
+| Enable two-factor authentication | Protect online accounts |
+| Verify website URLs | Prevent phishing attacks |
+| Keep software updated | Reduce security vulnerabilities |
+| Store recovery phrase offline | Protect wallet access |
+| Review wallet permissions | Limit unnecessary access |
