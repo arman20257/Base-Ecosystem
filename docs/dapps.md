@@ -51,3 +51,12 @@ Before approving a wallet request:
 - Only approve requests from trusted applications.
 - Review token spending approvals regularly.
 - Revoke permissions that are no longer needed.
+## dApp Evaluation Checklist
+
+| Check | Purpose |
+|------|---------|
+| Official website | Verify the project source |
+| Documentation | Understand how the application works |
+| Smart contract information | Review available contract details |
+| Wallet permissions | Understand what you are approving |
+| Project activity | Check whether the project is maintained |
