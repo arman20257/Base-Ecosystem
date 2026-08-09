@@ -27,3 +27,10 @@ Base is commonly used for:
 - Low-cost token transfers
 
 Its compatibility with the Ethereum ecosystem allows users and developers to migrate existing applications more easily.
+## Base and Ethereum
+
+Base is designed to work closely with the Ethereum ecosystem.
+
+Its EVM compatibility allows developers to use familiar Ethereum development tools and deploy applications with minimal changes.
+
+This makes Base an accessible environment for users and developers who are already familiar with Ethereum.
