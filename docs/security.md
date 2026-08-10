@@ -60,3 +60,13 @@ Recommendations:
 | Keep software updated | Reduce security vulnerabilities |
 | Store recovery phrase offline | Protect wallet access |
 | Review wallet permissions | Limit unnecessary access |
+## Phishing Awareness
+
+Phishing attacks can imitate legitimate wallets, websites, or projects.
+
+To stay safe:
+
+- Check website URLs carefully before connecting your wallet.
+- Do not enter your recovery phrase on websites.
+- Ignore unexpected messages asking for wallet information.
+- Use official project channels to verify important announcements.
