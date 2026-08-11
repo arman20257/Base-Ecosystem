@@ -34,3 +34,13 @@ Base is designed to work closely with the Ethereum ecosystem.
 Its EVM compatibility allows developers to use familiar Ethereum development tools and deploy applications with minimal changes.
 
 This makes Base an accessible environment for users and developers who are already familiar with Ethereum.
+## Layer 2 Benefits
+
+Layer 2 networks are designed to process transactions more efficiently while remaining connected to Ethereum.
+
+For users, this can provide:
+
+- Lower transaction costs
+- Faster transaction processing
+- Access to Ethereum-compatible applications
+- A more accessible environment for everyday on-chain activity
