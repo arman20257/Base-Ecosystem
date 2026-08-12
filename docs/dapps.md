@@ -60,3 +60,14 @@ Before approving a wallet request:
 | Smart contract information | Review available contract details |
 | Wallet permissions | Understand what you are approving |
 | Project activity | Check whether the project is maintained |
+## Checking Project Activity
+
+Before using a dApp, it is useful to check whether the project is actively maintained.
+
+Consider looking at:
+
+- Recent development updates
+- Documentation changes
+- Community activity
+- Recent application updates
+- Publicly available project information
