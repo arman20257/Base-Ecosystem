@@ -70,3 +70,12 @@ To stay safe:
 - Do not enter your recovery phrase on websites.
 - Ignore unexpected messages asking for wallet information.
 - Use official project channels to verify important announcements.
+## Transaction Safety
+
+Before confirming a transaction, take a moment to review the details.
+
+- Check the recipient address.
+- Confirm the selected network.
+- Review the amount being sent.
+- Make sure you understand the transaction request.
+- Cancel the transaction if anything looks suspicious.
