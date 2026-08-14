@@ -59,3 +59,12 @@ Creating a secure backup of your wallet is essential.
 | Browser Wallet | Daily dApp usage | Easy to access and use |
 | Mobile Wallet | On-the-go access | Convenient for mobile users |
 | Hardware Wallet | Long-term storage | Provides stronger security for valuable assets |
+## Connecting to dApps
+
+When connecting a wallet to a dApp:
+
+- Verify the website before connecting.
+- Check the requested network.
+- Review the permissions being requested.
+- Disconnect from applications you no longer use.
+- Never share your recovery phrase or private key.
