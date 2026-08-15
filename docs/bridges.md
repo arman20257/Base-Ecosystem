@@ -55,3 +55,13 @@ Take a moment to verify the following before submitting a bridge transaction:
 | Confirm wallet address | Avoids irreversible mistakes |
 | Review estimated fees | Helps plan transaction costs |
 | Check transaction status | Ensures the transfer is completed successfully |
+## Understanding Bridge Fees
+
+Bridge transactions may involve different types of costs.
+
+Before starting a transfer:
+
+- Check the estimated bridge fee.
+- Consider the network transaction fee.
+- Compare the total cost with the amount being transferred.
+- Make sure you have enough ETH available for required network fees.
