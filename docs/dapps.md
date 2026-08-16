@@ -71,3 +71,13 @@ Consider looking at:
 - Community activity
 - Recent application updates
 - Publicly available project information
+## Keeping dApp Information Updated
+
+The Base ecosystem changes over time, so information about dApps should be reviewed periodically.
+
+When updating this documentation:
+
+- Remove outdated information.
+- Check that project descriptions are still accurate.
+- Update links when necessary.
+- Prefer information from official project sources.
