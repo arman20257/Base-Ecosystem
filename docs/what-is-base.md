@@ -44,3 +44,16 @@ For users, this can provide:
 - Faster transaction processing
 - Access to Ethereum-compatible applications
 - A more accessible environment for everyday on-chain activity
+## Base Ecosystem Growth
+
+The Base ecosystem includes applications and services across different areas of blockchain activity.
+
+These areas include:
+
+- DeFi
+- NFTs
+- Gaming
+- Social applications
+- Developer tools
+
+As the ecosystem grows, new projects and use cases can continue to emerge on Base.
