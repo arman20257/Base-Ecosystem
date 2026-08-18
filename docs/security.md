@@ -79,3 +79,12 @@ Before confirming a transaction, take a moment to review the details.
 - Review the amount being sent.
 - Make sure you understand the transaction request.
 - Cancel the transaction if anything looks suspicious.
+## Handling Suspicious Transactions
+
+If a transaction request looks unusual or unexpected:
+
+- Do not approve it immediately.
+- Review the requested permissions carefully.
+- Disconnect your wallet if the website appears suspicious.
+- Check the project's official channels for additional information.
+- Never provide your recovery phrase to investigate a transaction.
