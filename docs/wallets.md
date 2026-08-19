@@ -68,3 +68,13 @@ When connecting a wallet to a dApp:
 - Review the permissions being requested.
 - Disconnect from applications you no longer use.
 - Never share your recovery phrase or private key.
+## EVM Compatibility
+
+Base is EVM-compatible, so users can interact with the network through wallets that support Ethereum-compatible networks.
+
+When using a wallet with Base:
+
+- Make sure the Base network is selected.
+- Confirm that the wallet supports EVM networks.
+- Check the network before sending assets.
+- Keep wallet software updated.
