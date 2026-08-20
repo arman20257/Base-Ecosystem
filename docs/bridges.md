@@ -65,3 +65,13 @@ Before starting a transfer:
 - Consider the network transaction fee.
 - Compare the total cost with the amount being transferred.
 - Make sure you have enough ETH available for required network fees.
+## Starting With Small Transfers
+
+When using a bridge for the first time, consider starting with a small amount.
+
+This can help you:
+
+- Confirm that the destination network is correct.
+- Verify that the wallet receives the assets successfully.
+- Understand the transfer process.
+- Identify unexpected fees before making a larger transfer.
