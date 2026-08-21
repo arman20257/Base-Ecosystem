@@ -81,3 +81,14 @@ When updating this documentation:
 - Check that project descriptions are still accurate.
 - Update links when necessary.
 - Prefer information from official project sources.
+## Before Using a New dApp
+
+Take a few moments to research a dApp before connecting your wallet.
+
+Consider checking:
+
+- The official project website
+- Available documentation
+- Recent project activity
+- Supported networks
+- Wallet permissions and transaction requests
