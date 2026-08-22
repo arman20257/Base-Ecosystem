@@ -88,3 +88,13 @@ If a transaction request looks unusual or unexpected:
 - Disconnect your wallet if the website appears suspicious.
 - Check the project's official channels for additional information.
 - Never provide your recovery phrase to investigate a transaction.
+## Using Public Devices
+
+Avoid accessing your wallet from public or shared computers whenever possible.
+
+If you must use one:
+
+- Avoid saving passwords or wallet information.
+- Do not install unknown browser extensions.
+- Sign out after finishing.
+- Check for unusual activity when you return to your trusted device.
