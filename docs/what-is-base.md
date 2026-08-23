@@ -57,3 +57,8 @@ These areas include:
 - Developer tools
 
 As the ecosystem grows, new projects and use cases can continue to emerge on Base.
+## User Experience
+
+Base is designed to make on-chain applications more accessible by providing an Ethereum-compatible environment with lower transaction costs.
+
+This can make everyday activities such as token transfers and interacting with decentralized applications more practical for users.
