@@ -92,3 +92,13 @@ Consider checking:
 - Recent project activity
 - Supported networks
 - Wallet permissions and transaction requests
+## Checking Network Support
+
+Before using a dApp, make sure it supports the Base network.
+
+Check:
+
+- The selected network in your wallet
+- The networks supported by the dApp
+- The transaction network before signing
+- The official documentation for network information
