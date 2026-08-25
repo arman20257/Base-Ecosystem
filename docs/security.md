@@ -98,3 +98,11 @@ If you must use one:
 - Do not install unknown browser extensions.
 - Sign out after finishing.
 - Check for unusual activity when you return to your trusted device.
+## Recovery Phrase Protection
+
+Your recovery phrase provides access to your wallet and should always be kept private.
+
+- Never share it with anyone.
+- Do not enter it into websites or online forms.
+- Store it in a secure offline location.
+- Be suspicious of anyone asking you to provide it for support or verification.
