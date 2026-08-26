@@ -78,3 +78,11 @@ When using a wallet with Base:
 - Confirm that the wallet supports EVM networks.
 - Check the network before sending assets.
 - Keep wallet software updated.
+## Network Verification
+
+Before sending assets through your wallet:
+
+- Confirm that Base is selected as the network.
+- Check the recipient address carefully.
+- Review the asset and amount before confirming.
+- Make sure you understand the transaction before signing.
