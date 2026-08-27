@@ -75,3 +75,14 @@ This can help you:
 - Verify that the wallet receives the assets successfully.
 - Understand the transfer process.
 - Identify unexpected fees before making a larger transfer.
+## Transfer Status
+
+After starting a bridge transfer, keep the transaction details available until the transfer is completed.
+
+Useful information to keep track of:
+
+- Transaction hash
+- Source network
+- Destination network
+- Asset being transferred
+- Transfer status
