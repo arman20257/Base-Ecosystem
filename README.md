@@ -20,12 +20,16 @@ This repository contains notes, resources, and updates related to the Base netwo
 
 Base is a Layer 2 blockchain built to make Ethereum more accessible, scalable, and affordable for users and developers.
 
-## Goals
+## Project Goals
 
-- Learn about the Base ecosystem
-- Track important projects
-- Collect useful resources
-- Document personal findings
+This repository aims to provide simple and practical notes about the Base network.
+
+The main goals are:
+
+- Explain basic Base concepts
+- Organize useful learning notes
+- Document common Web3 topics
+- Keep the repository beginner-friendly
 
 ## Topics
 
