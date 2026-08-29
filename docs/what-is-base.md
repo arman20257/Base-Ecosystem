@@ -62,3 +62,10 @@ As the ecosystem grows, new projects and use cases can continue to emerge on Bas
 Base is designed to make on-chain applications more accessible by providing an Ethereum-compatible environment with lower transaction costs.
 
 This can make everyday activities such as token transfers and interacting with decentralized applications more practical for users.
+## Developer Perspective
+
+Base provides an Ethereum-compatible environment for building decentralized applications.
+
+Developers can work with familiar EVM tools and development patterns while targeting a Layer 2 network.
+
+This makes Base a practical option for experimenting with and deploying on-chain applications.
