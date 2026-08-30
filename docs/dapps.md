@@ -102,3 +102,12 @@ Check:
 - The networks supported by the dApp
 - The transaction network before signing
 - The official documentation for network information
+## dApp Documentation Checklist
+
+When documenting a dApp, try to keep the information simple and useful.
+
+- Explain the main purpose of the application.
+- Mention the supported network.
+- Link to official documentation when available.
+- Keep outdated information removed.
+- Avoid making assumptions about project features.
