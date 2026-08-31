@@ -106,3 +106,14 @@ Your recovery phrase provides access to your wallet and should always be kept pr
 - Do not enter it into websites or online forms.
 - Store it in a secure offline location.
 - Be suspicious of anyone asking you to provide it for support or verification.
+## Security Review
+
+It is useful to review your wallet and account security regularly.
+
+A basic review can include:
+
+- Checking connected applications
+- Reviewing token approvals
+- Updating wallet and browser software
+- Confirming that recovery information is stored securely
+- Removing access that is no longer needed
