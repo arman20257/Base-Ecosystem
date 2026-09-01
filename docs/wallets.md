@@ -86,3 +86,12 @@ Before sending assets through your wallet:
 - Check the recipient address carefully.
 - Review the asset and amount before confirming.
 - Make sure you understand the transaction before signing.
+## Wallet Best Practices
+
+Using a wallet safely starts with a few simple habits.
+
+- Keep wallet software updated.
+- Use a strong password where supported.
+- Review transactions before signing.
+- Avoid connecting to unknown websites.
+- Keep recovery information private and secure.
