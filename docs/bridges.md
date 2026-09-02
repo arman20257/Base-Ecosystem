@@ -86,3 +86,13 @@ Useful information to keep track of:
 - Destination network
 - Asset being transferred
 - Transfer status
+## Bridge Completion
+
+After a bridge transaction is submitted, allow enough time for the transfer to complete.
+
+Before taking further action:
+
+- Check the transaction status.
+- Confirm the destination network.
+- Verify that the expected asset arrived.
+- Keep the transaction hash for reference.
