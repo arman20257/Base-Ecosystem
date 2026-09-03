@@ -117,3 +117,11 @@ A basic review can include:
 - Updating wallet and browser software
 - Confirming that recovery information is stored securely
 - Removing access that is no longer needed
+## Checking Transaction Details
+
+Before approving a transaction:
+
+- Review the contract or dApp name.
+- Check the amount being transferred.
+- Confirm the selected network.
+- Cancel the transaction if anything looks unexpected.
