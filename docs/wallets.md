@@ -95,3 +95,11 @@ Using a wallet safely starts with a few simple habits.
 - Review transactions before signing.
 - Avoid connecting to unknown websites.
 - Keep recovery information private and secure.
+## Wallet Transaction History
+
+Keep an eye on your wallet activity:
+
+- Review recent transactions regularly.
+- Check unfamiliar addresses or approvals.
+- Keep transaction records when needed.
+- Investigate unexpected activity before making another transaction.
