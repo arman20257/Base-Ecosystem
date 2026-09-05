@@ -69,3 +69,8 @@ Base provides an Ethereum-compatible environment for building decentralized appl
 Developers can work with familiar EVM tools and development patterns while targeting a Layer 2 network.
 
 This makes Base a practical option for experimenting with and deploying on-chain applications.
+## Base Transaction Costs
+
+Base is designed to make transactions more affordable than using Ethereum mainnet directly.
+
+Lower transaction costs can make everyday onchain activity more accessible, especially for users interacting with multiple applications.
