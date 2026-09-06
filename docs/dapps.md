@@ -111,3 +111,11 @@ When documenting a dApp, try to keep the information simple and useful.
 - Link to official documentation when available.
 - Keep outdated information removed.
 - Avoid making assumptions about project features.
+## Checking dApp Updates
+
+Before using a dApp regularly:
+
+- Check whether the project is still active.
+- Review recent announcements.
+- Confirm that the supported network is correct.
+- Avoid relying on outdated documentation.
