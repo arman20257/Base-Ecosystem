@@ -172,3 +172,8 @@ Changes may include:
 | `bridges.md` | Asset transfer guidance |
 | `dapps.md` | Notes about decentralized applications |
 | `security.md` | Security recommendations and best practices |
+## Next Steps
+
+This repository will continue to grow with practical notes about Base, wallets, bridges, dApps, and security.
+
+The goal is to keep the documentation simple, useful, and easy to follow.
