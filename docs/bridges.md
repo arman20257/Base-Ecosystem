@@ -96,3 +96,12 @@ Before taking further action:
 - Confirm the destination network.
 - Verify that the expected asset arrived.
 - Keep the transaction hash for reference.
+## Comparing Bridge Options
+
+Before choosing a bridge, compare:
+
+- Supported networks.
+- Supported assets.
+- Transfer fees.
+- Estimated completion time.
+- Security history and reputation.
