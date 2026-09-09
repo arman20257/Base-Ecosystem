@@ -125,3 +125,11 @@ Before approving a transaction:
 - Check the amount being transferred.
 - Confirm the selected network.
 - Cancel the transaction if anything looks unexpected.
+## Reviewing Token Approvals
+
+When using a dApp, review token approvals carefully:
+
+- Approve only the amount you need when possible.
+- Check which token is being approved.
+- Avoid approving unknown contracts.
+- Review existing approvals regularly.
