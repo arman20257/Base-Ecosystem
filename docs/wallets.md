@@ -103,3 +103,11 @@ Keep an eye on your wallet activity:
 - Check unfamiliar addresses or approvals.
 - Keep transaction records when needed.
 - Investigate unexpected activity before making another transaction.
+## Wallet Address Verification
+
+Before sending assets:
+
+- Check the recipient address carefully.
+- Compare the first and last characters.
+- Confirm the destination network.
+- Send a small test amount when appropriate.
