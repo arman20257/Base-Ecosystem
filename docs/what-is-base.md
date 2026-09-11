@@ -74,3 +74,8 @@ This makes Base a practical option for experimenting with and deploying on-chain
 Base is designed to make transactions more affordable than using Ethereum mainnet directly.
 
 Lower transaction costs can make everyday onchain activity more accessible, especially for users interacting with multiple applications.
+## Base for Everyday Onchain Activity
+
+Base can support a wide range of onchain activities, from simple transfers to interacting with decentralized applications.
+
+Its goal is to provide a practical and accessible environment for users and developers.
