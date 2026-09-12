@@ -119,3 +119,13 @@ Before using a dApp regularly:
 - Review recent announcements.
 - Confirm that the supported network is correct.
 - Avoid relying on outdated documentation.
+## Understanding dApp Contracts
+
+When interacting with a dApp, pay attention to the contracts involved.
+
+Before confirming a transaction:
+
+- Verify the contract address.
+- Understand what the transaction is expected to do.
+- Check the requested permissions.
+- Stop if the transaction behaves differently than expected.
