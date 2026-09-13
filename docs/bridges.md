@@ -105,3 +105,11 @@ Before choosing a bridge, compare:
 - Transfer fees.
 - Estimated completion time.
 - Security history and reputation.
+## Choosing a Bridge Asset
+
+Before starting a transfer, make sure the selected asset is the one you actually need.
+
+- Check the token symbol.
+- Confirm the destination network.
+- Review the expected received amount.
+- Be careful with similarly named tokens.
