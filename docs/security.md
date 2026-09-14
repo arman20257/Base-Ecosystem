@@ -133,3 +133,11 @@ When using a dApp, review token approvals carefully:
 - Check which token is being approved.
 - Avoid approving unknown contracts.
 - Review existing approvals regularly.
+## Avoiding Urgent Decisions
+
+When a transaction or message creates pressure to act quickly:
+
+- Take a moment before approving anything.
+- Verify the source independently.
+- Do not share your recovery phrase.
+- Cancel the action if the request seems suspicious.
