@@ -79,3 +79,8 @@ Lower transaction costs can make everyday onchain activity more accessible, espe
 Base can support a wide range of onchain activities, from simple transfers to interacting with decentralized applications.
 
 Its goal is to provide a practical and accessible environment for users and developers.
+## Base Ecosystem
+
+The Base ecosystem includes wallets, bridges, decentralized applications, and other onchain tools.
+
+These components work together to give users different ways to interact with the Base network.
