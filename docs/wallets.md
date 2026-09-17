@@ -111,3 +111,11 @@ Before sending assets:
 - Compare the first and last characters.
 - Confirm the destination network.
 - Send a small test amount when appropriate.
+## Wallet Network Switching
+
+When switching networks in a wallet:
+
+- Confirm the selected network before sending.
+- Make sure the dApp supports that network.
+- Check that the asset is available on the selected network.
+- Avoid sending assets to an unsupported network.
