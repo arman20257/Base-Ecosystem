@@ -129,3 +129,11 @@ Before confirming a transaction:
 - Understand what the transaction is expected to do.
 - Check the requested permissions.
 - Stop if the transaction behaves differently than expected.
+## dApp Transaction Review
+
+Before confirming a transaction:
+
+- Check the action requested by the dApp.
+- Review the token and amount involved.
+- Confirm the destination address.
+- Reject the transaction if the details are unexpected.
