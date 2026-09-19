@@ -113,3 +113,11 @@ Before starting a transfer, make sure the selected asset is the one you actually
 - Confirm the destination network.
 - Review the expected received amount.
 - Be careful with similarly named tokens.
+## Checking the Destination Network
+
+Before starting a bridge transfer:
+
+- Confirm the source network.
+- Confirm the destination network.
+- Check that the receiving wallet supports the destination network.
+- Verify the asset will be available after the transfer.
