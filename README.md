@@ -175,5 +175,15 @@ Changes may include:
 ## Next Steps
 
 This repository will continue to grow with practical notes about Base, wallets, bridges, dApps, and security.
+## Repository Focus
 
+This project focuses on simple and practical documentation for the Base ecosystem.
+
+Topics include:
+
+- Base network
+- Wallets
+- Bridges
+- dApps
+- Security
 The goal is to keep the documentation simple, useful, and easy to follow.
