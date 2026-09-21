@@ -141,3 +141,11 @@ When a transaction or message creates pressure to act quickly:
 - Verify the source independently.
 - Do not share your recovery phrase.
 - Cancel the action if the request seems suspicious.
+## Security Habits
+
+Good security starts with simple habits:
+
+- Keep your recovery phrase private.
+- Verify websites before connecting a wallet.
+- Review transactions before signing.
+- Never approve something you do not understand.
