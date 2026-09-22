@@ -84,3 +84,8 @@ Its goal is to provide a practical and accessible environment for users and deve
 The Base ecosystem includes wallets, bridges, decentralized applications, and other onchain tools.
 
 These components work together to give users different ways to interact with the Base network.
+## Base as a Layer 2
+
+Base is an Ethereum Layer 2 network designed to process transactions outside Ethereum mainnet while remaining connected to the Ethereum ecosystem.
+
+This approach can help applications handle onchain activity with lower transaction costs.
