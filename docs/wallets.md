@@ -119,3 +119,11 @@ When switching networks in a wallet:
 - Make sure the dApp supports that network.
 - Check that the asset is available on the selected network.
 - Avoid sending assets to an unsupported network.
+## Wallet Connection Review
+
+Before connecting your wallet to a website:
+
+- Confirm the website is trusted.
+- Check which wallet permissions are requested.
+- Review the network being used.
+- Disconnect from sites you no longer use.
