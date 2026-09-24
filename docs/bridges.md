@@ -121,3 +121,11 @@ Before starting a bridge transfer:
 - Confirm the destination network.
 - Check that the receiving wallet supports the destination network.
 - Verify the asset will be available after the transfer.
+## Bridge Fee Review
+
+Before confirming a bridge transaction:
+
+- Check the bridge fee.
+- Review the amount you will receive.
+- Compare the fee with the transfer amount.
+- Confirm the final details before signing.
