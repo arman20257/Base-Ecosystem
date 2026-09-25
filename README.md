@@ -187,3 +187,12 @@ Topics include:
 - dApps
 - Security
 The goal is to keep the documentation simple, useful, and easy to follow.
+## Learning Path
+
+A simple path through this repository:
+
+1. Learn what Base is.
+2. Set up and understand wallets.
+3. Learn how bridges work.
+4. Explore dApps.
+5. Follow basic security practices.
