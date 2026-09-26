@@ -149,3 +149,11 @@ Good security starts with simple habits:
 - Verify websites before connecting a wallet.
 - Review transactions before signing.
 - Never approve something you do not understand.
+## Regular Security Checks
+
+Review your wallet security from time to time:
+
+- Check connected websites.
+- Review token approvals.
+- Remove permissions you no longer need.
+- Keep wallet software updated.
