@@ -137,3 +137,11 @@ Before confirming a transaction:
 - Review the token and amount involved.
 - Confirm the destination address.
 - Reject the transaction if the details are unexpected.
+## dApp User Experience
+
+When using a dApp, look for a clear and simple interface:
+
+- Check that transaction details are easy to understand.
+- Make sure wallet prompts match the action you requested.
+- Review confirmation screens before signing.
+- Stop if the interface behaves unexpectedly.
