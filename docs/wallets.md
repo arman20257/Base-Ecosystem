@@ -127,3 +127,11 @@ Before connecting your wallet to a website:
 - Check which wallet permissions are requested.
 - Review the network being used.
 - Disconnect from sites you no longer use.
+## Wallet Activity Review
+
+Review your wallet activity regularly:
+
+- Check recent transactions.
+- Look for unfamiliar addresses.
+- Review active approvals.
+- Investigate anything you do not recognize.
