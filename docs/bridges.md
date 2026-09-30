@@ -129,3 +129,11 @@ Before confirming a bridge transaction:
 - Review the amount you will receive.
 - Compare the fee with the transfer amount.
 - Confirm the final details before signing.
+## Bridge Transaction Status
+
+After starting a bridge transfer:
+
+- Save the transaction hash.
+- Check the transaction status.
+- Confirm the assets arrived on the destination network.
+- Do not start another transfer before checking the first one.
