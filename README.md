@@ -196,3 +196,8 @@ A simple path through this repository:
 3. Learn how bridges work.
 4. Explore dApps.
 5. Follow basic security practices.
+## Project Goal
+
+This repository is a simple learning guide for the Base ecosystem.
+
+It collects practical information about the network, wallets, bridges, dApps, and basic security in one place.
