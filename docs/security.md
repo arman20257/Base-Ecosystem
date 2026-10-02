@@ -157,3 +157,11 @@ Review your wallet security from time to time:
 - Review token approvals.
 - Remove permissions you no longer need.
 - Keep wallet software updated.
+## Backup and Recovery
+
+Protect your wallet recovery information:
+
+- Keep your recovery phrase offline.
+- Never share it with anyone.
+- Avoid storing it in public or unsecured locations.
+- Make sure you can access your backup when needed.
