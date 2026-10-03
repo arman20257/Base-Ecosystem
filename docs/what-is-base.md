@@ -89,3 +89,10 @@ These components work together to give users different ways to interact with the
 Base is an Ethereum Layer 2 network designed to process transactions outside Ethereum mainnet while remaining connected to the Ethereum ecosystem.
 
 This approach can help applications handle onchain activity with lower transaction costs.
+## Base and Ethereum
+
+Base is built as an Ethereum Layer 2.
+
+It uses Ethereum as part of its underlying security model while processing transactions on a separate layer.
+
+This allows applications to build on Ethereum with a different transaction environment.
