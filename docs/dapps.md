@@ -145,3 +145,11 @@ When using a dApp, look for a clear and simple interface:
 - Make sure wallet prompts match the action you requested.
 - Review confirmation screens before signing.
 - Stop if the interface behaves unexpectedly.
+## dApp Discovery
+
+When discovering new dApps:
+
+- Start with trusted ecosystem resources.
+- Research the project before connecting a wallet.
+- Check recent activity and documentation.
+- Avoid interacting with unknown contracts.
