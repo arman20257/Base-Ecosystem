@@ -135,3 +135,11 @@ Review your wallet activity regularly:
 - Look for unfamiliar addresses.
 - Review active approvals.
 - Investigate anything you do not recognize.
+## Wallet Transaction History
+
+Your transaction history can help you monitor wallet activity:
+
+- Review recent transactions regularly.
+- Check unknown transfers carefully.
+- Compare transaction details with your own activity.
+- Investigate anything that looks unusual.
