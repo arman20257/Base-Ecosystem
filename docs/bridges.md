@@ -137,3 +137,12 @@ After starting a bridge transfer:
 - Check the transaction status.
 - Confirm the assets arrived on the destination network.
 - Do not start another transfer before checking the first one.
+## Bridge Transfer Checklist
+
+Before confirming a bridge transfer:
+
+- Verify the source network.
+- Verify the destination network.
+- Confirm the token and amount.
+- Review the estimated fee.
+- Make sure the destination wallet is correct.
