@@ -199,5 +199,15 @@ A simple path through this repository:
 ## Project Goal
 
 This repository is a simple learning guide for the Base ecosystem.
+## What You Can Learn
 
+This repository covers the basics of using the Base ecosystem.
+
+You can learn about:
+
+- The Base network
+- Wallet management
+- Bridges
+- dApps
+- Onchain security
 It collects practical information about the network, wallets, bridges, dApps, and basic security in one place.
