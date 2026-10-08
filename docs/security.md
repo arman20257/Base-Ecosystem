@@ -165,3 +165,11 @@ Protect your wallet recovery information:
 - Never share it with anyone.
 - Avoid storing it in public or unsecured locations.
 - Make sure you can access your backup when needed.
+## Phishing Awareness
+
+Be careful with unexpected wallet requests:
+
+- Do not trust urgent messages.
+- Verify links before opening them.
+- Check the website domain carefully.
+- Never enter your recovery phrase on a website.
