@@ -96,3 +96,14 @@ Base is built as an Ethereum Layer 2.
 It uses Ethereum as part of its underlying security model while processing transactions on a separate layer.
 
 This allows applications to build on Ethereum with a different transaction environment.
+## Base Use Cases
+
+Base can be used for different types of onchain activity, including:
+
+- DeFi applications
+- NFT platforms
+- Payments
+- Gaming
+- Social applications
+
+These use cases show how Layer 2 networks can support different blockchain applications.
