@@ -153,3 +153,12 @@ When discovering new dApps:
 - Research the project before connecting a wallet.
 - Check recent activity and documentation.
 - Avoid interacting with unknown contracts.
+## dApp Research
+
+Before using a new dApp, spend some time researching it:
+
+- Read the official documentation.
+- Check the project's official channels.
+- Understand what the dApp does.
+- Review the contracts involved.
+- Start carefully before committing significant funds.
