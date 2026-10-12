@@ -6,6 +6,17 @@ Several popular wallets support the Base network.
 
 MetaMask can be connected to Base by adding the network configuration manually or through supported applications.
 
+To add Base manually, use the following network details:
+
+| Field           | Value                        |
+| --------------- | ---------------------------- |
+| Network Name    | Base Mainnet                 |
+| RPC URL         | https://mainnet.base.org     |
+| Chain ID        | 8453                         |
+| Currency Symbol | ETH                          |
+| Block Explorer  | https://base.blockscout.com/ |
+
+Always confirm these values against the official Base documentation before saving the network.
 ## Coinbase Wallet
 
 Coinbase Wallet provides native support for the Base ecosystem and is commonly used by new users.
