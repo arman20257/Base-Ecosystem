@@ -165,7 +165,17 @@ Protect your wallet recovery information:
 - Never share it with anyone.
 - Avoid storing it in public or unsecured locations.
 - Make sure you can access your backup when needed.
-## Phishing Awareness
+
+## Hardware Wallets
+
+A hardware wallet stores your private keys on a separate physical device, which helps protect them from malware on your computer.
+
+Recommendations:
+
+- Buy only from the manufacturer or an authorized reseller.
+- Do not use a device that arrives with a recovery phrase already written down.
+- Review each transaction on the device screen before confirming it.
+- Keep your recovery phrase offline, just like with any other wallet.## Phishing Awareness
 
 Be careful with unexpected wallet requests:
 
