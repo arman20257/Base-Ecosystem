@@ -12,6 +12,13 @@ Users may want to move assets to Base in order to access lower transaction fees 
 
 The official bridge is commonly used to transfer assets between Ethereum and Base.
 
+Its address is `https://bridge.base.org`. Always type or bookmark this address yourself instead of following links from messages or ads.
+
+Transfer times are different in each direction:
+
+- Deposits from Ethereum to Base typically complete within a few minutes.
+- Withdrawals from Base back to Ethereum typically take approximately 7 days because of the challenge period.
+
 ### Third-Party Bridges
 
 Some cross-chain protocols also support transfers to and from Base.
