@@ -51,6 +51,18 @@ Before approving a wallet request:
 - Only approve requests from trusted applications.
 - Review token spending approvals regularly.
 - Revoke permissions that are no longer needed.
+
+### How to Review and Revoke Approvals
+
+Token approvals stay active until you revoke them. A tool such as Revoke.cash can show them for the Base network:
+
+1. Open `https://revoke.cash/token-approval-checker/base`.
+2. Enter your wallet address or connect your wallet.
+3. Review the list of approvals (token, spender, amount and date).
+4. Click "Revoke" on any approval you do not recognize or no longer need.
+5. Confirm the transaction in your wallet. A small network fee applies.
+
+Approvals are separate on each network, so check Base and any other network you use.
 ## dApp Evaluation Checklist
 
 | Check | Purpose |
