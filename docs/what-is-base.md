@@ -2,6 +2,15 @@
 
 Base is an Ethereum Layer 2 network that aims to provide fast and affordable transactions.
 
+## Quick Facts
+
+- **Developed by:** Coinbase
+- **Type:** Ethereum Layer 2 network
+- **Native currency:** ETH
+- **Launched:** 2023
+
+To add Base to your wallet, see the network details in [wallets.md](wallets.md#metamask).
+
 ## Key Features
 
 - Built on Ethereum
