@@ -36,13 +36,17 @@ Base is commonly used for:
 - Low-cost token transfers
 
 Its compatibility with the Ethereum ecosystem allows users and developers to migrate existing applications more easily.
+
 ## Base and Ethereum
 
-Base is designed to work closely with the Ethereum ecosystem.
+Base is built as an Ethereum Layer 2 and is designed to work closely with the Ethereum ecosystem.
+
+It uses Ethereum as part of its underlying security model while processing transactions on a separate layer.
 
 Its EVM compatibility allows developers to use familiar Ethereum development tools and deploy applications with minimal changes.
 
 This makes Base an accessible environment for users and developers who are already familiar with Ethereum.
+
 ## Layer 2 Benefits
 
 Layer 2 networks are designed to process transactions more efficiently while remaining connected to Ethereum.
@@ -53,6 +57,7 @@ For users, this can provide:
 - Faster transaction processing
 - Access to Ethereum-compatible applications
 - A more accessible environment for everyday on-chain activity
+
 ## Base Ecosystem Growth
 
 The Base ecosystem includes applications and services across different areas of blockchain activity.
@@ -66,11 +71,13 @@ These areas include:
 - Developer tools
 
 As the ecosystem grows, new projects and use cases can continue to emerge on Base.
+
 ## User Experience
 
 Base is designed to make on-chain applications more accessible by providing an Ethereum-compatible environment with lower transaction costs.
 
 This can make everyday activities such as token transfers and interacting with decentralized applications more practical for users.
+
 ## Developer Perspective
 
 Base provides an Ethereum-compatible environment for building decentralized applications.
@@ -78,33 +85,31 @@ Base provides an Ethereum-compatible environment for building decentralized appl
 Developers can work with familiar EVM tools and development patterns while targeting a Layer 2 network.
 
 This makes Base a practical option for experimenting with and deploying on-chain applications.
+
 ## Base Transaction Costs
 
 Base is designed to make transactions more affordable than using Ethereum mainnet directly.
 
 Lower transaction costs can make everyday onchain activity more accessible, especially for users interacting with multiple applications.
+
 ## Base for Everyday Onchain Activity
 
 Base can support a wide range of onchain activities, from simple transfers to interacting with decentralized applications.
 
 Its goal is to provide a practical and accessible environment for users and developers.
+
 ## Base Ecosystem
 
 The Base ecosystem includes wallets, bridges, decentralized applications, and other onchain tools.
 
 These components work together to give users different ways to interact with the Base network.
+
 ## Base as a Layer 2
 
 Base is an Ethereum Layer 2 network designed to process transactions outside Ethereum mainnet while remaining connected to the Ethereum ecosystem.
 
 This approach can help applications handle onchain activity with lower transaction costs.
-## Base and Ethereum
 
-Base is built as an Ethereum Layer 2.
-
-It uses Ethereum as part of its underlying security model while processing transactions on a separate layer.
-
-This allows applications to build on Ethereum with a different transaction environment.
 ## Base Use Cases
 
 Base can be used for different types of onchain activity, including:
