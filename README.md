@@ -4,13 +4,15 @@
 ```text
 .
 ├── README.md
-├── CHANGELOG.md
 ├── CONTRIBUTING.md
+├── FAQ.md
+├── LICENSE
 └── docs/
     ├── bridges.md
     ├── dapps.md
     ├── security.md
-    └── wallets.md
+    ├── wallets.md
+    └── what-is-base.md
 ```
 A simple repository for tracking and learning about the Base ecosystem.
 
