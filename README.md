@@ -168,12 +168,13 @@ Changes may include:
 - Minor formatting updates
 ## Documentation Summary
 
-| Document | Description |
-|----------|-------------|
-| `wallets.md` | Wallet compatibility and security tips |
-| `bridges.md` | Asset transfer guidance |
-| `dapps.md` | Notes about decentralized applications |
-| `security.md` | Security recommendations and best practices |
+| Document         | Description                                 |
+| ---------------- | ------------------------------------------- |
+| `what-is-base.md` | Introduction to Base and its key features   |
+| `wallets.md`     | Wallet compatibility and security tips      |
+| `bridges.md`     | Asset transfer guidance                     |
+| `dapps.md`       | Notes about decentralized applications      |
+| `security.md`    | Security recommendations and best practices |
 ## Next Steps
 
 This repository will continue to grow with practical notes about Base, wallets, bridges, dApps, and security.
