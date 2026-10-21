@@ -67,8 +67,10 @@ Phishing attacks can imitate legitimate wallets, websites, or projects.
 To stay safe:
 
 - Check website URLs carefully before connecting your wallet.
+- Verify links before opening them.
 - Do not enter your recovery phrase on websites.
 - Ignore unexpected messages asking for wallet information.
+- Do not trust urgent messages.
 - Use official project channels to verify important announcements.
 ## Transaction Safety
 
