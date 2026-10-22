@@ -53,13 +53,15 @@ Recommendations:
 - Remove extensions you no longer use.
 ## Security Checklist
 
-| Recommendation | Purpose |
-|---------------|---------|
-| Enable two-factor authentication | Protect online accounts |
-| Verify website URLs | Prevent phishing attacks |
-| Keep software updated | Reduce security vulnerabilities |
-| Store recovery phrase offline | Protect wallet access |
-| Review wallet permissions | Limit unnecessary access |
+| Recommendation                   | Purpose                         |
+| -------------------------------- | ------------------------------- |
+| Enable two-factor authentication | Protect online accounts         |
+| Verify website URLs              | Prevent phishing attacks        |
+| Keep software updated            | Reduce security vulnerabilities |
+| Store recovery phrase offline    | Protect wallet access           |
+| Review wallet permissions        | Limit unnecessary access        |
+| Verify transaction details       | Avoid wrong address or network  |
+| Use unique crypto passwords      | Limit damage from reuse         |
 ## Phishing Awareness
 
 Phishing attacks can imitate legitimate wallets, websites, or projects.
