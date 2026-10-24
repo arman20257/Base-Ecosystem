@@ -21,6 +21,8 @@ Always confirm these values against the official Base documentation before savin
 
 Coinbase Wallet provides native support for the Base ecosystem and is commonly used by new users.
 
+It is a self-custodial wallet, which means you control your own keys and are responsible for keeping your recovery phrase safe. It is a separate product from the Coinbase exchange app.
+
 ## Rabby Wallet
 
 Rabby offers a user-friendly interface for interacting with multiple EVM-compatible networks, including Base.
