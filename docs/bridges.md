@@ -23,6 +23,8 @@ Transfer times are different in each direction:
 
 Some cross-chain protocols also support transfers to and from Base.
 
+These bridges are operated by separate teams, so their fees, supported assets, and security risks can differ from the official bridge. Open them only from the project's official website, and read their documentation before sending a large amount.
+
 ## Important Notes
 
 - Always verify the destination network.
