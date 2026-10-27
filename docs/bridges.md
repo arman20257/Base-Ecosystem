@@ -48,7 +48,7 @@ If a transaction is delayed:
 - Confirm the correct destination network.
 - Wait for the required confirmations.
 - Contact the bridge's official support channels if necessary.
-## Before Confirming a Transfer
+- Never share your recovery phrase with anyone offering help. Official support will not ask for it.## Before Confirming a Transfer
 
 Take a moment to verify the following before submitting a bridge transaction:
 
