@@ -20,6 +20,10 @@ Creators and collectors can interact with NFT marketplaces that support Base.
 
 Some projects are exploring on-chain social experiences and creator tools.
 
+### Gaming Applications
+
+Some games and interactive applications use Base for on-chain items, rewards, and player activity.
+
 ## Things to Consider
 
 - Check transaction fees before interacting with a protocol.
