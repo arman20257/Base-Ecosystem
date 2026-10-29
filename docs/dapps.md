@@ -8,6 +8,8 @@ The Base ecosystem includes a growing number of decentralized applications.
 
 Users can swap tokens and provide liquidity through decentralized exchanges available on Base.
 
+Before swapping, check the token's contract address and the slippage setting, because fake tokens can copy the name of a real one.
+
 ### DeFi Protocols
 
 Various lending, borrowing, and yield-generating applications are being developed on Base.
